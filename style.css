@@ -24,12 +24,12 @@ button {
     cursor: pointer;
     border: none;
     border-radius: 4px;
-    background-color: #007BFF;
-    color: white;
+    background-color: #FFFF00;
+    color: black;
 }
 
 button:hover {
-    background-color: #00b327;
+    background-color: #9400D3;
 }
 
 .hidden {
